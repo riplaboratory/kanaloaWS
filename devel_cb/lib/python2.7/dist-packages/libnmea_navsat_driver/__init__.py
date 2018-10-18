@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/nmea_navsat_driver/lib/python2.7/dist-packages/libnmea_navsat_driver/__init__.py

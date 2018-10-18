@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake

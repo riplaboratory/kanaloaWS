@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/razor_imu_9dof/share/razor_imu_9dof/cmake/razor_imu_9dofConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_msgs
+
+Name: rosserial_msgs
+Description: Description of rosserial_msgs
+Version: 0.7.7
+Cflags: -I/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_msgs/include
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_msgs/lib 
+Requires: message_runtime

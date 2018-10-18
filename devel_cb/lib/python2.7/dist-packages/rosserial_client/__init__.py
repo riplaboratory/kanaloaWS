@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_client/lib/python2.7/dist-packages/rosserial_client/__init__.py

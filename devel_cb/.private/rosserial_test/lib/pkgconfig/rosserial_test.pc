@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_test
+
+Name: rosserial_test
+Description: Description of rosserial_test
+Version: 0.7.7
+Cflags: 
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_test/lib 
+Requires: rosserial_msgs std_msgs

@@ -1,0 +1,4 @@
+rosserial/rosserial_windows
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_windows/lib/pkgconfig/rosserial_windows.pc /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/rosserial_windows.pc

@@ -1,0 +1,8 @@
+[  0%] Built target _um7_generate_messages_check_deps_Reset
+[ 18%] Built target um7_generate_messages_cpp
+[ 18%] Built target um7_generate_messages_lisp
+[ 36%] Built target um7_generate_messages_py
+[ 54%] Built target um7_generate_messages_eus
+[ 63%] Built target um7_generate_messages_nodejs
+[100%] Built target um7_driver
+[100%] Built target um7_generate_messages

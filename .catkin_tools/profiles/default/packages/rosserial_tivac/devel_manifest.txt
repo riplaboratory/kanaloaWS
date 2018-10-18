@@ -1,0 +1,5 @@
+rosserial/rosserial_tivac
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_tivac/lib/pkgconfig/rosserial_tivac.pc /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/rosserial_tivac.pc

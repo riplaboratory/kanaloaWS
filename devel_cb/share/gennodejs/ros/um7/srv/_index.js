@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/um7/share/gennodejs/ros/um7/srv/_index.js

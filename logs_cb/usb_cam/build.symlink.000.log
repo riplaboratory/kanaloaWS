@@ -1,0 +1,5 @@
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/usb_cam/cmake/usb_camConfig-version.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/usb_cam/cmake/usb_camConfig.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/libusb_cam.so
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/usb_cam/usb_cam_node
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/usb_cam.pc

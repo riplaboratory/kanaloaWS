@@ -1,0 +1,4 @@
+rosserial/rosserial_embeddedlinux
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_embeddedlinux/lib/pkgconfig/rosserial_embeddedlinux.pc /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/rosserial_embeddedlinux.pc

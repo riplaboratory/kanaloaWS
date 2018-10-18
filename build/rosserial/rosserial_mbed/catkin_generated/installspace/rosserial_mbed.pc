@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/install
+
+Name: rosserial_mbed
+Description: Description of rosserial_mbed
+Version: 0.7.7
+Cflags: -I/home/rip-acer-vn7-591g-1/catkin_ws/install/include
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/install/lib 
+Requires: message_runtime

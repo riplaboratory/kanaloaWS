@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/usb_cam/share/usb_cam/cmake/usb_camConfig-version.cmake

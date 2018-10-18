@@ -1,0 +1,4 @@
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_client/cmake/rosserial_clientConfig.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/python2.7/dist-packages/rosserial_client/__init__.py
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/rosserial_client.pc

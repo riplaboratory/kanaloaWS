@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/devel
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.7.7
+Cflags: -I/home/rip-acer-vn7-591g-1/catkin_ws/src/rosserial/rosserial_server/include
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/devel/lib 
+Requires: roscpp rosserial_msgs std_msgs topic_tools

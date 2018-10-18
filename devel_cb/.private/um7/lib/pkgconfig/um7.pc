@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/um7
+
+Name: um7
+Description: Description of um7
+Version: 0.0.4
+Cflags: -I/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/um7/include -I/home/rip-acer-vn7-591g-1/catkin_ws/src/um7/include
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/um7/lib 
+Requires: message_runtime

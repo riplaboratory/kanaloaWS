@@ -1,0 +1,5 @@
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/share/rosserial_xbee/cmake/rosserial_xbeeConfig-version.cmake
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/python2.7/dist-packages/rosserial_xbee/__init__.py
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/python2.7/dist-packages/xbee/__init__.py
+Symlinking /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/lib/pkgconfig/rosserial_xbee.pc

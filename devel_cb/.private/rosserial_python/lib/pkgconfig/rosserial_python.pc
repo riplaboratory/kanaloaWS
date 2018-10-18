@@ -1,0 +1,8 @@
+prefix=/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_python
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.7.7
+Cflags: 
+Libs: -L/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/rosserial_python/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/rip-acer-vn7-591g-1/catkin_ws/devel_cb/.private/nmea_navsat_driver/share/nmea_navsat_driver/cmake/nmea_navsat_driverConfig.cmake

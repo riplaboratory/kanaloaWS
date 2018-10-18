@@ -1,0 +1,6 @@
+devel_space: /home/rip-acer-vn7-591g-1/catkin_ws/devel_cb
+install: false
+install_space: /home/rip-acer-vn7-591g-1/catkin_ws/install_cb
+profile: default
+source_space: /home/rip-acer-vn7-591g-1/catkin_ws/src
+workspace: /home/rip-acer-vn7-591g-1/catkin_ws
